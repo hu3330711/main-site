@@ -1,0 +1,8 @@
+title: Emic Wave
+description: Notes and posts
+url: "https://hu3330711.github.io"
+baseurl: "/main-site"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+exclude:
+  - README.md
