@@ -1,22 +1,20 @@
 ---
 layout: default
-title: About
+title: 关于
 permalink: /about/
 ---
 
-## About
+## 关于
 
-Emic Wave is a simple Markdown blog hosted on GitHub Pages.
+这是一个用 Markdown 写的简短技术笔记站，托管在 GitHub Pages。
 
-Add a new article by creating a file in `_posts/` named like:
-
-`YYYY-MM-DD-my-title.md`
-
-with front matter:
+新增文章：在 `_posts/` 下创建 `YYYY-MM-DD-标题.md`，写上：
 
 ```yaml
 ---
 layout: post
-title: My title
+title: 标题
 ---
 ```
+
+然后推送到仓库即可。
