@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TigerVNC sessions (brief)
+title: TigerVNC sessions
 categories: [ops]
 ---
 
