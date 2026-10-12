@@ -1,10 +1,10 @@
 ---
 layout: post
-title: TigerVNC sessions
+title: VNC
 categories: [ops]
 ---
 
-Start, list, and stop localhost-only TigerVNC desktops (XFCE), then connect through an SSH tunnel.
+Start, list, and stop localhost-only VNC commands for qin server
 
 ## Everyday commands
 
